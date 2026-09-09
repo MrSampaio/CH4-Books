@@ -15,7 +15,7 @@ Frush is available for testing on TestFlight! Join the beta and try it out on yo
 </div>
 
 <div align="center">
-  <img src="./documentation/mockup_ip14.png" alt="Frush App" width="1000"/>
+  <img src="./documentation/mockup_ip16.png" alt="Frush App" width="1000"/>
 </div>
 
 ## Features
